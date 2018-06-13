@@ -34,3 +34,5 @@
  } else
 没有路线可以到达终点;
 ```
+* 深度优先搜索图解
+![](/home/gxtao/桌面/stackqueue.dfs.png)
