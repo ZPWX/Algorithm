@@ -8,5 +8,5 @@
       [Bank_Simulation](https://github.com/GXTAO/Algorithm/tree/master/Bank_Simultaion)
   * 汉诺塔
       [Hanoi](https://github.com/GXTAO/Algorithm/tree/master/Hanoi)
-  * 迷宫 深度/深度优先搜索
+  * 迷宫 深度/广度优先搜索
       [Maze](https://github.com/GXTAO/Algorithm/tree/master/Maze)
