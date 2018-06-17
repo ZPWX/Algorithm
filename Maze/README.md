@@ -42,3 +42,23 @@
 * 广度优先搜索队列图解
 
 	![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_Queue/stackqueue.bfsqueue.png)
+* 伪码如下：
+```
+将起点标记为已走过并入队;
+while (队列非空) {
+	出队一个点p;
+	if (p这个点是终点)
+		break;
+	否则沿右、下、左、上四个方向探索相邻的点
+	if (和p相邻的点有路可走，并且还没走过)
+		将相邻的点标记为已走过并入队，它的前趋就是刚出队的p点;
+}
+if (p点是终点) {
+	打印p点的座标;
+	while (p点有前趋) {
+		p点 = p点的前趋;
+		打印p点的座标;
+	}
+} else
+	没有路线可以到达终点;
+```
