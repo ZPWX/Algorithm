@@ -62,3 +62,6 @@ if (p点是终点) {
 } else
 	没有路线可以到达终点;
 ```
+* 广度优先搜索图解
+
+	![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_Queue/stackqueue.bfs.png)
