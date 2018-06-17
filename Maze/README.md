@@ -35,6 +35,6 @@
 没有路线可以到达终点;
 ```
 * 深度优先搜索图解
-![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_stack/stackqueue.dfs.png)
+	![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_stack/stackqueue.dfs.png)
 # 广度优先搜索
 * 利用队列
