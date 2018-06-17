@@ -38,4 +38,7 @@
 
 	![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_stack/stackqueue.dfs.png)
 # 广度优先搜索
-* 利用队列
+* 利用队列中FIFO方式进行数据的入队和出队操作。设置队头和队尾两个指针。对头总是指向元素的的队头;队尾指向下一个元素。Predecessor成员指针，指向它所指元素的前趋节点。利用数据结构中广度优先搜索进行路线的排序。
+* 广度优先搜索队列图解
+
+	![](https://github.com/GXTAO/Algorithm/blob/master/Maze/Maze_Queue/stackqueue.bfsqueue.png)
