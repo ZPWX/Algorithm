@@ -12,3 +12,5 @@
       [Maze](https://github.com/GXTAO/Algorithm/tree/master/Maze)
   * Ackerman 递归实现函数
       [Ackerman]()
+  * MatrixMultiply 矩阵连乘
+      [MatrixMultiply](https://github.com/ZPWX/Algorithm/tree/master/MatrixMultiply)
