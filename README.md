@@ -12,7 +12,7 @@
       [Maze](https://github.com/GXTAO/Algorithm/tree/master/Maze)
   * Ackerman 递归实现函数
       [Ackerman]()
-  * MatrixMultiply 矩阵连乘
+  *  矩阵连乘 MatrixMultiply
       [MatrixMultiply](https://github.com/ZPWX/Algorithm/tree/master/MatrixMultiply)
-  * MaxSubArray 最大连续子数组之和
+  * 最大连续子数组之和 MaxSubArray 
       [MaxSubArray](https://github.com/ZPWX/Algorithm/blob/master/MaxSubArray)
