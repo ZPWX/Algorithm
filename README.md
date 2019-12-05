@@ -16,3 +16,5 @@
       [MatrixMultiply](https://github.com/ZPWX/Algorithm/tree/master/MatrixMultiply)
   * 最大连续子数组之和 MaxSubArray 
       [MaxSubArray](https://github.com/ZPWX/Algorithm/blob/master/MaxSubArray)
+  * 移除元素
+      [RemoveEle](https://github.com/ZPWX/Algorithm/tree/master/RemoveEle)
