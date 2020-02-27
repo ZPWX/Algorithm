@@ -18,3 +18,5 @@
       [MaxSubArray](https://github.com/ZPWX/Algorithm/blob/master/MaxSubArray)
   * 移除元素
       [RemoveEle](https://github.com/ZPWX/Algorithm/tree/master/RemoveEle)
+  * 搜索插入位置
+      [searchInsert]()
